@@ -1,7 +1,7 @@
 <?php 
   
 // Redirect browser 
-header("https://madeawaymilmore.wwwhost.us"); 
+header("https://madeawaymilmore.wwwhost.us/Citizens/"); 
   
 exit; 
 ?> 
