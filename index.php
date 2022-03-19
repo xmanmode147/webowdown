@@ -1,7 +1,7 @@
 <?php 
   
 // Redirect browser 
-header("Location: https://google.com"); 
+header("https://madeawaymilmore.wwwhost.us"); 
   
 exit; 
 ?> 
